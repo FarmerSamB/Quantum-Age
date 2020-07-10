@@ -5,8 +5,12 @@ size: 7
 reload: 300
 range: 1160
 ammoUseEffect: shellEjectBig
+shootSound: artillery
+shootShake: 5
 inaccuracy: 2
 rotatespeed: 2
+restitution: 60
+recoil: 8
 ammo: {
   antimatter-cell: {
     speed: 1
