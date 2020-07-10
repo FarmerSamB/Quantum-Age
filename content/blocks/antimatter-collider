@@ -8,5 +8,8 @@ craftTime: 180
 updateEffect: blastSmoke
 consumes: {
   power: 250
-  }
 }
+requirements: [
+  titanium/1000
+  metaglass/250
+  plastanium/250
