@@ -1,2 +1,28 @@
-name: Placeholder
-description: Haha coding go brrr
+type: ArtilleryTurret
+name: Mavor
+description: A massive antimatter-powered artillery cannon. Has incredible range and damage, but cannot target air units.
+size: 7
+reload: 300
+range: 1160
+ammoUseEffect: shellEjectBig
+inaccuracy: 2
+rotatespeed: 2
+ammo: {
+  antimatter-cell: {
+    speed: 1
+    damage: 
+    bulletWidth: 
+    bulletHeight: 
+    shootEffect: shootBig2
+    smokeEffect: shootBigSmoke2
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  antimatter-cell/100
+  plastanium/500
+  thorium/1000
+  titanium/8000
+]
+category: turret
+research: antimatter-collider
