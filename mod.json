@@ -1,0 +1,6 @@
+name: "Quantum-Age"
+displayName: "[green]Quantum Age"
+author: "FarmerSamB"
+description: "Adds a variety of [green]quantum age[] technologies."
+version: "0.1.0"
+minGameVersion: "104.10"
