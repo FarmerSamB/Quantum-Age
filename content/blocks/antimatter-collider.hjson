@@ -11,5 +11,12 @@ consumes: {
 }
 requirements: [
   titanium/1000
+  thorium/250
   metaglass/250
-  plastanium/250
+  plastanium/100
+]
+category: crafting
+research: impact-reactor
+idleSound: drill
+idleSoundVolume: 0.5
+outputItem: antimatter-cell/1
