@@ -3,22 +3,22 @@ name: Mavor
 description: A massive antimatter-powered artillery cannon. Has incredible range and damage, but cannot target air units.
 health: 7595
 size: 7
-reload: 300
+reload: 600
 range: 1160
 ammoUseEffect: shellEjectBig
 shootSound: artillery
-shootShake: 8
+shootShake: 3
 inaccuracy: 2
 rotatespeed: 2
-restitution: 300
-recoil: 1
+expanded: true
+recoil: 8
 ammo: {
   antimatter-cell: {
     type: ArtilleryBulletType
     lifetime: 290
     speed: 4
     splashDamage: 9001
-    splashDamageRadius: 0.1
+    splashDamageRadius: 25
     damage: 9001
     bulletWidth: 8
     bulletHeight: 16
