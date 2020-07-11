@@ -16,9 +16,9 @@ ammo: {
     type: ArtilleryBulletType
     lifetime: 290
     speed: 4
-    splashDamage: 9000
+    splashDamage: 9001
     splashDamageRadius: 1
-    damage: 1
+    damage: 9001
     bulletWidth: 8
     bulletHeight: 16
     frontColor: ffffff
