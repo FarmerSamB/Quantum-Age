@@ -1,12 +1,13 @@
 type: ArtilleryTurret
 name: Mavor
 description: A massive antimatter-powered artillery cannon. Has incredible range and damage, but cannot target air units.
+health: 7595
 size: 7
 reload: 300
 range: 1160
 ammoUseEffect: shellEjectBig
 shootSound: artillery
-shootShake: 1
+shootShake: 8
 inaccuracy: 2
 rotatespeed: 2
 restitution: 300
