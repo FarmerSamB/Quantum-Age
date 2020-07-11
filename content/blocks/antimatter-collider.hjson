@@ -1,10 +1,10 @@
 type: GenericSmelter
 name: Antimatter Collider
-description: Uses gigantic amounts of power to create antimatter and assorted mass residue.
+description: Uses gigantic amounts of power to create antimatter.
 size: 5
 hasPower: true
 hasItems: true
-craftTime: 180
+craftTime: 600
 updateEffect: blastsmoke
 consumes: {
   power: 250
