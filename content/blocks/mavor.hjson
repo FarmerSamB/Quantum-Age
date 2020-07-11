@@ -9,8 +9,8 @@ shootSound: artillery
 shootShake: 1
 inaccuracy: 2
 rotatespeed: 2
-restitution: 60
-recoil: 8
+restitution: 300
+recoil: 1
 ammo: {
   antimatter-cell: {
     type: ArtilleryBulletType
